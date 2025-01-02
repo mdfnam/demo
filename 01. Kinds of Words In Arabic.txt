@@ -1,0 +1,35 @@
+#Kinds of Word In Arabic
+The Quran contains numerous words on every page, which cab be categorized into three parts of speech in Arabic:
+01. Ism		02. Fi'l		03. Harf
+
+#Definition:
+- Ism: Part of speech in Arabic that indicates a meaning in itself and is not linked to time.
+- Fi'l: Part of speech in Arabic that indicates a meaning in itself and is also linked to time.
+- Harf: Part of speech in Arabic that conveys meaning only when followed by another word.
+
+#Mapping Parts of Speech:
+We will explore the parts of speech in English that align with the definitions of ism, fi'l & harf:
+- Ism: Noun, Pronoun, Adjective, Adverb
+- Fi'l: Verb
+- Harf: Preposition, Conjunction
+
+#Note:
+1: In English, a word can belong to two categories, but in Arabic, each word must clearly belong to one of three categories.
+2: Since it's easy to identify Harf and Fi'l with respect to Ism, it's more effective to use the elimination method to determine the Ism.
+
+#Examples:
+- Ism: Imran, Teacher, She, big, quickly
+- Fi'l: ate, eat, will eat, running, was running
+- Harf: of, in, from, at, with, as, and, but
+Q: What about "Yesterday", "very"???
+
+#How to identify ism, fi'l and harf:
+Step 1: Take a Arabic word 
+Step 2: Convert it in English 
+Step 3: Check for > Harf > then Fi'l > If not then It's Ism
+
+#Note:
+1: In English, the subject & verb are separate, whereas in Arabic, they form a single unit called "fi'l". Ex: Na'budu - We worship - Fi'l
+2: In English, the article & noun are separate, whereas in Arabic, they form a single unit called "ism". Ex: Al-hamdu - The praise - Ism
+
+#Exercise: Identify ism, fi'l and harf in Surah Al-Fatiha
